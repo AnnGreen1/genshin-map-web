@@ -7,3 +7,8 @@
 
 ### 具体实现思路请查阅博客，期待反馈吖ヾ(^▽^ヾ)
 https://blog.csdn.net/Cting1997/article/details/114274433
+
+
+原神官方游戏大地图演示：https://act.mihoyo.com/ys/app/interactive-map/index.html
+
+node 版本：16.14.2

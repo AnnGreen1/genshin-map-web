@@ -16,7 +16,7 @@
     "intro.js": "^3.3.1",
     "leaflet.zoomslider": "^0.7.1",
     "mockjs": "^1.1.0",
-    "node-sass": "^4.0.0",
+    "sass": "^1.69.0",
     "postcss-loader": "^5.1.0",
     "postcss-px-to-viewport": "^1.1.1",
     "postcss-px2rem": "^0.3.0",
