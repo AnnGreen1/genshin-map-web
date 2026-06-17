@@ -82,6 +82,7 @@ export function treeToArray(tree) {
     for (const i in array) {
       const data = array[i]
       if (data.children) {
+        /* eslint-disable-next-line no-unused-vars */
         const { children, ...deepData } = data
         result.push(deepData)
         f(data.children) // 自己调用自己
